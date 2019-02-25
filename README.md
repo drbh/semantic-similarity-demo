@@ -39,7 +39,7 @@ Other ways to achieve a similar result would be to do topic modeling - then clas
 
 Here we use semantic similarity to check the similarity of class names. We enter two topic names, that have very similar content (in terms of skills needed to understand).
 
-integer programming and linear optimization are almost synonyms (of course if you understand the difference, you'll tell me how different these topics really are - but from a high and mid level these two are really similar). However for our usecase this is a fantastic result! Completely different words, but connected at a core conceptual level.
+integer programming and linear optimization are almost synonyms (of course if you understand the difference, you'll tell me how different these topics really are - but from a high and mid level these two are really similar). For our usecase this is a fantastic result! Completely different words, but connected at a core conceptual level.
 
 
 ![Age](screenshots/math.png)
